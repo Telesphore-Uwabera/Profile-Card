@@ -1,0 +1,32 @@
+.profileCard {
+    border: 1px solid #d0d2d6;
+    border-radius: 5px;
+    padding: 20px;
+    margin: 20px;
+    background-color: #000000;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
+    text-align: center;
+  }
+  
+  .avatarImg {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    border: 3px solid #27865d;
+    margin-bottom: 20px;
+  }
+  
+  .name {
+    color: #27865d;
+    margin-bottom: 5px;
+  }
+  
+  .title {
+    color: #2c887c;
+    margin-bottom: 10px;
+  }
+  
+  .description {
+    color: #5a5a5a;
+  }
+  
