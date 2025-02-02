@@ -4,6 +4,12 @@
 
 This project is a guided learning activity to build a **Profile Card** application using **React** and **TypeScript**. It focuses on the fundamentals of component creation, passing props, styling with CSS Modules, and using dynamic rendering for multiple profile cards.
 
+## Screenshot
+
+Here’s a screenshot of the application:
+
+![Dev Insights Screenshot](screenshot.png)
+
 ## Tools & Technologies
 
 - **React** (Library for building user interfaces)
