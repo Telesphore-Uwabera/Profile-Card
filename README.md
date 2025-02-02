@@ -8,7 +8,7 @@ This project is a guided learning activity to build a **Profile Card** applicati
 
 Here’s a screenshot of the application:
 
-![Dev Insights Screenshot](screenshot.png)
+![Profile Card Screenshot](screenshot.png)
 
 ## Tools & Technologies
 
